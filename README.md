@@ -9,7 +9,7 @@ revenue. Upon my research, I explored the difference in conversion rate amongst 
 (control) and B (treatment) and found an increase of .71%. Which indicates that including the banner 
 on the landing page would be beneficial for GloBox.  I also remarked on a positive correlation 
 with the average amount spent per user. Group A had an average of $3.37 per user and group B had
-an average of $3.39 per user, displaying an overall increase of $0.05. Based on my analysis, 
+an average of $3.39 per user, displaying an overall increase of $0.05 . Based on my analysis, 
 there was sufficiently strong enough evidence to go ahead and recommend that they launch this experience to all its users.
 
 SQL query is included in the written report
